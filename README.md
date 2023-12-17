@@ -7,8 +7,9 @@
 <div>
   
 <h1>
-  Привет, меня зовут Сергей!
+  Привет, меня зовут Сергей! / Hi, my name is Sergey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### :man_technologist:  Обо мне / About Me:
+Я начинающий QA Engeneer / I am a beginer QA Engeneer <img src="https://media.giphy.com/media/ZdO1mXD9kgpCslD5ka/giphy.gif" width="40">.
